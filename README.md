@@ -6,7 +6,7 @@ My name is Tymofii Shchur, and I'm a passionate developer specializing in Python
 
 💻 **Other Languages:** I also have proficiency in C++ and C#, using them in various projects.
 
-🛠️ **Currently Working With:** WPF
+🛠️ **Currently Working With:** .NET
 
 👨‍💻 **In my free time:** I maintain my own projects and continuously learn new things in programming.
 
