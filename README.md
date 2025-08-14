@@ -1,20 +1,33 @@
-# Hello there 👋
+# About Me
 
-I'm Tymofii Shchur, a passionate full-stack developer focusing on ASP.NET Core and Python.
+I’m a **backend-focused full-stack software engineer**, specializing in **ASP.NET Core**, **Python**, and with **strong experience in C++**.  
+My primary expertise is in building **robust backend systems**, **scalable APIs**, and **database-driven applications**, with clean architecture and high performance in mind.
 
-## 🚀 Current focus
-- ASP.NET Core full-stack development
-- Advanced Telegram bot development with Python (Flask, PostgreSQL, Google Sheets)
-- Exploring Machine Learning, AI, and Computer Vision
+---
 
-## 💻 Skills
-- **Languages:** C#, Python, JavaScript (beginner), C++, SQL (MS SQL Server, PostgreSQL, MongoDB)
-- **Technologies:** ASP.NET Core, Entity Framework, Flask, Django (learning), Python ML/AI libraries
+## 💼 Core Expertise
 
-## 🦀 Learning
-- Rust — systems programming with modern safety
+- **Backend Development (main focus):** ASP.NET Core (C#) and Python for APIs, automation, and complex server-side logic.  
+- **Advanced C++ Development:** Strong background in creating high-performance, optimized, and efficient applications.  
+- **Telegram Bot Development:** Professional bots with advanced business logic, integrations, and automation workflows.  
+- **Database Design & Optimization:** PostgreSQL, Microsoft SQL Server, MongoDB, NeonDB, Supabase.  
+- **Cloud & Deployment Platforms:** Microsoft Azure, Railway, Render.  
+- **DevOps & Tools:** Docker, Git.  
+- **Frontend (supporting role):** React (beginner) for basic interfaces and admin panels.  
+- **Freelance Projects:** Delivered production-ready solutions on Fiverr, from automation scripts to full backend systems.  
 
-## 👨‍💻 What I do in free time
-- Maintain own projects
-- Freelance bot development
-- Continuous learning and exploring new technologies
+---
+
+## 📚 Current Focus
+
+- Deepening backend architecture and scalability practices.  
+- Expanding into Machine Learning, AI, and Computer Vision.  
+
+---
+
+## 🌟 Key Strengths
+
+- Strong backend-first mindset, capable of designing systems from scratch.  
+- Proven ability to write high-performance code in C++, C#, and Python.  
+- Solid understanding of cloud deployment, CI/CD pipelines, and modern backend infrastructure.  
+- Passion for writing clean, maintainable, and efficient code.
