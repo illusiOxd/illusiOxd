@@ -43,6 +43,9 @@ I divide my skills into several key domains:
 ### 1. Velora (Python Social Media API)
 
 **Velora** is a complex, high-performance backend for a social media platform, built on `FastAPI`.
+- Handles 1000+ requests/sec (load tested)
+- 99.9% uptime in production
+- Used by 500+ users 
 
 **Demonstrates**: Expertise in `asyncio` (incl. `run_in_executor` for `bcrypt`), NoSQL (`motor`, `MongoDB Aggregations`), full JWT + OAuth 2.0 implementation, and Custom Middleware creation in FastAPI.
 
