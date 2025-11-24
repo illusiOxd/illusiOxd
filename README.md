@@ -109,12 +109,38 @@ polyglot_expertise:
 <br/>FastAPI
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br/>Flask
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br/>Django
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
 <br/>Golang
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
 <br/>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br/>OpenCV
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+<br/>REST API
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/numpy.png" width="48" height="48" alt="NumPy" />
+<br/>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/pydantic.png" width="48" height="48" alt="Pydantic" />
+<br/>Pydantic
 </td>
 </tr>
 </table>
@@ -143,6 +169,36 @@ polyglot_expertise:
 <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
 <br/>Redis
 </td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/sql.png" width="48" height="48" alt="SQL" />
+<br/>SQL
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+<br/>SQLAlchemy
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-motor-is-the-recommended-asynchronous-python-driver-for-mongodb-logo-color-tal-revivo.png" width="48" height="48" alt="Motor" />
+<br/>Motor
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" height="48" alt="PyMongo" />
+<br/>PyMongo
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" width="48" height="48" alt="SQLModel" />
+<br/>SQLModel
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/prometheus-app.png" width="48" height="48" alt="Prometheus" />
+<br/>Prometheus
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest" />
+<br/>Pytest
+</td>
 </tr>
 </table>
 
@@ -169,6 +225,36 @@ polyglot_expertise:
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 <br/>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br/>CI/CD
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/postman-api.png" width="48" height="48" alt="Postman" />
+<br/>Postman
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/pypa/pipenv/master/docs/art/pipenv.svg" width="48" height="48" alt="Pipenv" />
+<br/>Pipenv
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/96/000000/console.png" width="48" height="48" alt="Uvicorn" />
+<br/>Uvicorn
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="48" height="48" alt="Telegram Bot" />
+<br/>Telegram API
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/96/000000/webhook.png" width="48" height="48" alt="Webhooks" />
+<br/>Webhooks
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/000000/markdown.png" width="48" height="48" alt="Markdown" />
+<br/>MkDocs
 </td>
 </tr>
 </table>
@@ -501,7 +587,7 @@ architecture = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illusiOxd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illusiOxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
-<!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=illusiOxd&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/> -->
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=illusiOxd&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illusiOxd&theme=tokyonight"/>
 
