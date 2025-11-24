@@ -587,7 +587,7 @@ architecture = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=illusiOxd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illusiOxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=illusiOxd&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
+<!-- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=illusiOxd&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/> -->
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illusiOxd&theme=tokyonight"/>
 
