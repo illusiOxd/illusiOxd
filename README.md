@@ -292,7 +292,7 @@ polyglot_expertise:
 
 ## 💎 Expertise Matrix
 
-<div align="center">
+<!-- <div align="center">
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#4f46e5', 'lineColor':'#8b5cf6', 'secondaryColor':'#10b981', 'tertiaryColor':'#f59e0b', 'background':'#1e293b', 'mainBkg':'#6366f1', 'secondBkg':'#8b5cf6', 'tertiaryBkg':'#10b981', 'textColor':'#ffffff', 'border1':'#4f46e5', 'border2':'#7c3aed'}}}%%
@@ -330,7 +330,7 @@ mindmap
       Cloud Deploy
 ```
 
-</div>
+</div> -->
 
 <br/>
 
@@ -678,39 +678,6 @@ architecture = {
 
 <br/>
 
-## 📚 Learning & Innovation
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#4f46e5', 'lineColor':'#8b5cf6', 'secondaryColor':'#10b981', 'tertiaryColor':'#f59e0b', 'background':'#1e293b', 'mainBkg':'#6366f1', 'nodeBorder':'#4f46e5', 'clusterBkg':'#334155', 'clusterBorder':'#6366f1', 'titleColor':'#ffffff', 'edgeLabelBackground':'#1e293b'}}}%%
-graph LR
-    A[Current Focus] --> B[Microservices]
-    A --> C[Machine Learning]
-    A --> D[Cloud Architecture]
-    
-    B --> B1[Service Mesh]
-    B --> B2[Event Sourcing]
-    
-    C --> C1[TensorFlow]
-    C --> C2[Computer Vision]
-    
-    D --> D1[AWS/Azure]
-    D --> D2[Kubernetes]
-    
-    style A fill:#6366f1,stroke:#4f46e5,stroke-width:3px,color:#fff
-    style B fill:#8b5cf6,stroke:#7c3aed,color:#fff
-    style C fill:#10b981,stroke:#059669,color:#fff
-    style D fill:#f59e0b,stroke:#d97706,color:#fff
-    style B1 fill:#a78bfa,stroke:#8b5cf6,color:#fff
-    style B2 fill:#a78bfa,stroke:#8b5cf6,color:#fff
-    style C1 fill:#34d399,stroke:#10b981,color:#fff
-    style C2 fill:#34d399,stroke:#10b981,color:#fff
-    style D1 fill:#fbbf24,stroke:#f59e0b,color:#fff
-    style D2 fill:#fbbf24,stroke:#f59e0b,color:#fff
-```
-
-</div>
 
 **🎓 Currently Exploring:**
 - 🔮 **Advanced Microservices**: CQRS, Event Sourcing, Saga Pattern
@@ -719,44 +686,6 @@ graph LR
 - 🎯 **Performance**: Advanced caching strategies, CDN optimization
 
 <br/>
-
-## 💼 Work Philosophy
-
-<div align="center">
-
-```python
-class EngineeringPrinciples:
-    """Code I live by"""
-    
-    def __init__(self):
-        self.manifesto = {
-            "code_quality": [
-                "Write code humans can understand",
-                "Test exhaustively, deploy confidently",
-                "Document like your future self depends on it"
-            ],
-            "architecture": [
-                "Build for scale from day one",
-                "Security isn't optional, it's foundational",
-                "Performance is a feature, not an afterthought"
-            ],
-            "collaboration": [
-                "Clear communication beats clever code",
-                "Code reviews are knowledge transfers",
-                "Share knowledge, grow together"
-            ],
-            "mindset": [
-                "Question assumptions, validate with data",
-                "Embrace failure as a learning opportunity",
-                "Stay humble, stay hungry, stay learning"
-            ]
-        }
-    
-    def get_motto(self) -> str:
-        return "Build systems that scale, secure, and inspire 🚀"
-```
-
-</div>
 
 <br/>
 
@@ -824,15 +753,6 @@ class EngineeringPrinciples:
 </td>
 </tr>
 </table>
-
-<br/>
-
-### ⚡ Fun Facts
-
-> 💻 I can debug a distributed system race condition at 3 AM and make it elegant  
-> 🚀 Coffee-to-code conversion rate: 1 cup = 500 lines  
-> 🎯 Favorite error message: "It works on my machine" (but I always fix it everywhere)  
-> 🌙 Best coding hours: When the world sleeps and compilers are awake
 
 <br/>
 
