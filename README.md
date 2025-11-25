@@ -290,8 +290,6 @@ polyglot_expertise:
 
 <br/>
 
-## 💎 Expertise Matrix
-
 <!-- <div align="center">
 
 ```mermaid
