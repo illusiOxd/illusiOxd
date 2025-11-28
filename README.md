@@ -504,6 +504,7 @@ var techStack = new {
 <br/>
 
 ### 🗃️ [YaraDB](https://github.com/yourusername/yaradb) • In-Memory JSON Database
+<img src="https://github.com/user-attachments/assets/a9a08190-ee8f-4883-81df-713a3e36c595" alt="YaraDB Banner" width="100%">
 
 <div align="center">
 
