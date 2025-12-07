@@ -91,7 +91,7 @@ Backend developer passionate about building scalable systems that handle real tr
 **Testing:** Pytest • Unittest
 
 **Frontend:** React • Tailwind CSS • Jinja2
----
+
 
 </div>
 
