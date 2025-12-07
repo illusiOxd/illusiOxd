@@ -86,14 +86,6 @@ Backend developer passionate about building scalable systems that handle real tr
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illusiOxd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=C1666B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illusiOxd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
-
 </div>
 
 ---
