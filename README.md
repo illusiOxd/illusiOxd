@@ -74,16 +74,23 @@ Backend developer passionate about building scalable systems that handle real tr
 
 ## 🛠️ Tech Stack
 
-**Languages:** C# • Python • Go • C++ • TypeScript
+**Languages:** Python • C# • Go • C++ • TypeScript
 
-**Backend:** .NET • FastAPI • Django • Flask
+**Backend:** FastAPI • Django (DRF) • .NET • Flask • AsyncIO
 
-**Databases:** PostgreSQL • MongoDB • Redis • SQLite
+**AI & LLM:** OpenAI API • Anthropic (Claude) • Prompt Engineering • RAG
 
-**Tools:** Docker • Linux • Git • REST APIs • gRPC
+**Databases:** PostgreSQL (NeonDB, Supabase) • MongoDB • Redis • SQLite • MS SQL • Vector DBs
+
+**ORM & ODM:** SQLAlchemy • Django ORM • Entity Framework Core • SQLModel • Motor
+
+**DevOps & Cloud:** Docker • CI/CD (GitHub Actions) • Render • Railway • Azure • Heroku
+
+**Tools:** Git • Linux • Postman • Celery/RabbitMQ • Telegram API
+
+*Testing:** Pytest • Unittest
 
 **Frontend:** React • Tailwind CSS • Jinja2
-
 ---
 
 </div>
