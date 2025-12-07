@@ -60,7 +60,7 @@ Backend developer passionate about building scalable systems that handle real tr
 - Strategy pattern for extensible operations
 - 99.99% data integrity in tests
 
-### [SRC App](https://github.com/illusiOxd/src-app) — System Monitor
+### [SRC App](https://github.com/illusiOxd/SRCapp) — System Monitor
 **Real-time system monitoring** with sub-100ms refresh rates
 
 `C#` `.NET` `WPF`
