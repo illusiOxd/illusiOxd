@@ -30,7 +30,7 @@ Backend developer passionate about building scalable systems that handle real tr
 
 ## 🚀 Featured Projects
 
-### [Velora](https://github.com/illusiOxd/velora) — Social Media Backend
+### Velora — Social Media Backend
 **Production-ready social platform** serving 500+ users with 1000+ req/sec
 
 `Python` `FastAPI` `MongoDB` `Redis` `Docker`
