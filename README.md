@@ -88,7 +88,7 @@ Backend developer passionate about building scalable systems that handle real tr
 
 **Tools:** Git • Linux • Postman • Celery/RabbitMQ • Telegram API
 
-*Testing:** Pytest • Unittest
+**Testing:** Pytest • Unittest
 
 **Frontend:** React • Tailwind CSS • Jinja2
 ---
