@@ -86,7 +86,7 @@ Backend developer passionate about building scalable systems that handle real tr
 
 **DevOps & Cloud:** Docker • CI/CD (GitHub Actions) • Render • Railway • Azure • Heroku
 
-**Tools:** Git • Linux • Postman • Celery/RabbitMQ • Telegram API
+**Tools:** Git • Linux • Postman • Telegram API
 
 **Testing:** Pytest • Unittest
 
